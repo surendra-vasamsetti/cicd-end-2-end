@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: sunjay7/docker-cicd:XYZ
+        image: sunjay7/docker-cicd:1
         ports:
         - containerPort: 8080
 
